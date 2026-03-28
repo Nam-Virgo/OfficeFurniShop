@@ -1,5 +1,5 @@
 CREATE DATABASE Officecraft;
-USE DATABASE Officecraft;
+USE Officecraft;
 
 -- ROLE
 CREATE TABLE Role (
