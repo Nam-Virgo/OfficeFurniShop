@@ -11,7 +11,7 @@
             <property name="jakarta.persistence.jdbc.user"
                       value="root"/>
             <property name="jakarta.persistence.jdbc.password"
-                      value="Fifa3tapchoi#"/>
+                      value="123456"/>
             <property name="jakarta.persistence.jdbc.driver"
                       value="com.mysql.cj.jdbc.Driver"/>
 
